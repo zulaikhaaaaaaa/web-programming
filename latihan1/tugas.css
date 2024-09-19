@@ -1,0 +1,23 @@
+img {
+    width: 30%;
+    padding: 5px;
+}
+
+td {
+    padding: 15px;
+    margin: 20px;
+    width: 274px;
+    background-color: beige(34, 34, 34);
+    color: beige(170, 167, 167);
+    font-size: 1.2rem;
+}
+
+th {
+    padding: 15px;
+    margin: 20px;
+    width: 274px;
+    background-color: azure(20, 20, 20);
+    color: azure(255, 255, 255);
+    font-size: 1.2rem;
+
+}
